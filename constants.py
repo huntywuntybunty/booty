@@ -60,22 +60,6 @@ TEAM_ABBREV_MAP = {
     'LAD': ['LAD', 'LA', 'DODGERS'],         # Los Angeles Dodgers
     'SDP': ['SDP', 'SD', 'PADRES'],          # San Diego Padres
     'SFG': ['SFG', 'SF', 'GIANTS'],          # San Francisco Giants
-    
-    # Historical/Alternate
-    'MON': ['MON', 'MTL', 'EXPOS'],          # Montreal Expos
-    'CAL': ['CAL', 'CALA'],                  # California Angels
-    'FLA': ['FLA', 'FLM'],                   # Florida Marlins (pre-2012)
-    'ANA': ['ANA'],                          # Anaheim Angels (1997-2004)
-    
-    # Common misspellings and variations
-    'D-BACKS': ['ARI'],
-    'D-BACKS': ['ARI'],
-    'SOX': ['BOS', 'CWS'],                   # Context needed for Red/White
-    'JAYS': ['TOR'],
-    'STROS': ['HOU'],
-    'BUCS': ['PIT'],
-    'FRIARS': ['SDP'],
-    'BUMS': ['LAD']                          # Historical nickname
 }
 
 # Reverse mapping for lookup
